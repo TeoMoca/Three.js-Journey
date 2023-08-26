@@ -24,5 +24,8 @@
   "homepage": "https://github.com/TeoMoca/Three.js-Journey#readme",
   "dependencies": {
     "three": "^0.151.3"
+  },
+  "devDependencies": {
+    "vite": "^4.2.1"
   }
 }
